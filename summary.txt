@@ -1,0 +1,12 @@
+git init
+
+git add remote origin {github repo link}
+git branch -M main
+
+write some code 
+
+git status -> to check the status of git and file
+
+git add .
+git commit -m "Any message you want to type"
+git push -u origin main
